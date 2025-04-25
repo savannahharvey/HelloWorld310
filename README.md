@@ -41,5 +41,3 @@ I found these websites useful in developing this software:
 The following items I plan to fix, improve, and/or add to this project in the future:
 
 * [ ] not really anything, it is perfect. *chef's kiss
-* [ ]
-* [ ]
